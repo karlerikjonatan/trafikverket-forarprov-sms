@@ -1,8 +1,7 @@
 # trafikverket-driving-tests-observer
 
 A small, dependency-free template that observes the availability of Trafikverket
-driving tests and notifies you as soon as a slot becomes available
-earlier than a date you choose.
+driving tests and notifies you as soon as a slot becomes available.
 
 It runs a single poll-and-check pass: it queries Trafikverket for the earliest
 available test occasion and, if that occasion is before your target date, calls a
