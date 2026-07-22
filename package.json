@@ -1,7 +1,7 @@
 {
   "name": "trafikverket-driving-tests-observer",
   "version": "2.0.0",
-  "description": "Observe the availability of Trafikverket driving tests and get notified as soon as an earlier slot becomes available.",
+  "description": "A small, dependency-free template that observes the availability of Trafikverket driving tests and notifies you as soon as a slot becomes available earlier than a date you choose.",
   "type": "module",
   "main": "src/index.js",
   "engines": {
@@ -13,7 +13,6 @@
   },
   "keywords": [
     "trafikverket",
-    "forarprov",
     "nodejs"
   ],
   "author": "Jonatan Pettersson <pettersson.jonatan@gmail.com>",
