@@ -1,6 +1,6 @@
 {
     "bookingSession": {
-        "socialSecurityNumber": "00000000-0000",
+        "socialSecurityNumber": "YYYYMMDD-XXXX",
         "licenceId": 0,
         "bookingModeId": 0,
         "ignoreDebt": false,

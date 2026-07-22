@@ -69,7 +69,11 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
+.env
 .env.local
+
+# Local Trafikverket search body with personal details (copy from payload.example.json)
+payload.json
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
